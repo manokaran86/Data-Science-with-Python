@@ -1,2 +1,2 @@
 # Data-Science-with-Python
-Data science Project - Python
+Data science Projects using Python
